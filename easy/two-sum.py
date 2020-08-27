@@ -10,8 +10,7 @@ class Solution:
                 
 # alternative solution: using dictionaries because of quicker lookup times. O(n) time complexity
 
-class Solution2:
-    def twoSum(self, nums: List[int], target: int) -> List[int]:
+    def twoSum_v1 (self, nums: List[int], target: int) -> List[int]:
             dictionary = {}
     
             for i in range(len(nums)):
