@@ -9,5 +9,4 @@ def selection_sort(arr):
             arr[i], arr[min] = arr[min], arr[i]
     return arr
 
-print(selection_sort([4]))
 
