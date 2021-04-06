@@ -4,6 +4,7 @@ This repository is dedicated to my journey towards doing well in technical inter
 
 ## :memo: Aims
 18 Jan 2021 - Started practicing actively
+
 4 Apr 2021 - Started working on LeetCode <a href="https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Questions-to-Save-Your-Time-OaM1orEU">Blind 75 Questions</a>
 
 
