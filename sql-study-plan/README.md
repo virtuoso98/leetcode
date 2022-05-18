@@ -1,7 +1,11 @@
-# SQL Study plan
+# :books: SQL Study plan
 
-This readme contains some pointers that I've gotten through refreshing my SQL knowledge
+This README contains some pointers that I've gotten through refreshing my (rather fundamental) SQL knowledge. I'm hoping that finishing this challenge puts me in better stead for ML Engineering Roles!
 
-## 584 - Find Customer Referee
+### 1873 - Calculate Special Bonus
+
+Please revisit this question!
+
+### 584 - Find Customer Referee
 
 Remember that when querying for conditionals `!=, ==, >=, <=`, it doesn't account for `NULL` values.

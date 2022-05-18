@@ -1,3 +1,6 @@
 ## :wrench: Leetcode Questions
 
-This repository is dedicated to my journey towards doing well in technical interviews. I have deleted all the questions I've done previously and I'm starting fresh! Currently working on the algorithm study plan from leetcode, but I'm putting a little less prep because I'm transitioning to ML engineering and need to be a little more holistic.
+This repository is dedicated to my journey towards doing well in technical interviews. I have deleted all my previous solutions questions I've done previously and I'm starting fresh for full time employment! Currently working on the easy versions of algorithm and SQL study plans from leetcode. In future, I should be
+
+##
+
