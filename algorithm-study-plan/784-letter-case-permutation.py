@@ -1,5 +1,6 @@
 class Solution:
     def letterCasePermutation(self, s: str) -> List[str]:
+        # List of list because each inner list is one permutation
         arr = [[]]
         for c in s:
             n = len(arr)
