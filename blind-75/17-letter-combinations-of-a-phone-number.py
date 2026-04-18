@@ -1,10 +1,10 @@
 class Solution:
-    def backtrack(combi, ptr) -> None:
+    def backtrack(self, combi, ptr, output, digits, digit_map) -> None:
             if ptr == len(digits):
                 output.append(combi)
                 return
             for c in digit_map[digits[ptr]]:
-                backtrack(combi + c, ptr + 1)
+                self.backtrack(combi + c, ptr + 1, output, digits, digit_map)
 
     def letterCombinations(self, digits: str) -> List[str]:
         digit_map = {
@@ -18,5 +18,5 @@ class Solution:
             "9": "wxyz"
         }
         output = []
-        backtrack("",0, output)
+        self.backtrack("", 0, output, digits, digit_map)
         return output
